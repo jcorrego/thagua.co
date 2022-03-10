@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="relative flex justify-center min-h-screen bg-gray-900 items-center py-4">
-            <div class="max-w-6xl mx-auto w-2/3 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 overflow-hidden shadow rounded-lg">
+            <div class="max-w-xl mx-auto w-2/3 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 overflow-hidden shadow rounded-lg">
                 <div class="p-6">
                     <h1 class="text-white font-bold text-2xl">THAGUA.co</h1>
                     <div class="mt-2 text-gray-200 text-sm">
