@@ -6,16 +6,14 @@
         <title>Thagua</title>
         <link href="/css/app.css" rel="stylesheet">
     </head>
-    <body>
-        <div class="relative flex justify-center min-h-screen bg-gray-900 items-center py-4">
-            <div class="max-w-xl mx-auto w-2/3 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 overflow-hidden shadow rounded-lg">
-                <div class="p-6">
-                    <h1 class="text-white font-bold text-2xl">THAGUA.co</h1>
-                    <div class="mt-2 text-gray-200 text-sm">
-                        <div>We are coming soon...</div>
-                            <a href="mailto:thaguainvestments@gmail.com" class="text-white">thaguainvestments@gmail.com</a>
-                        </div>
-                </div>
+    <body class="bg-slate-400">
+        <div class="relative flex justify-center min-h-screen bg-slate-400 items-center py-4">
+            <div class="max-w-xl mx-auto w-2/3">
+                <img src="images/logo_thagua.svg" class="w-48 mx-auto" alt="Thagua.co">
+                <p class="mt-10 text-center text-white">We craft beautiful products for home and personal use.</p>
+                <h2 class="mt-10 text-center text-white text-lg">Contact information</h2>
+                <p class=" text-center text-white opacity-70">
+                    <a href="mailto:thaguainvestments@gmail.com">thaguainvestments@gmail.com</a></p>
             </div>
         </div>
     </body>
