@@ -10,10 +10,13 @@
         <div class="relative flex justify-center min-h-screen bg-slate-400 items-center py-4">
             <div class="max-w-xl mx-auto w-2/3">
                 <img src="images/logo_thagua.svg" class="w-48 mx-auto" alt="Thagua.co">
-                <p class="mt-10 text-center text-white">We craft beautiful products for home and personal use.</p>
-                <h2 class="mt-10 text-center text-white text-lg">Contact information</h2>
+                <p class="mt-10 text-center text-white text-lg">"We offer you an innovative experience with modern and functional products that make your daily life easier."</p>
+                <h2 class="mt-10 text-center text-white text-base">Contact information</h2>
                 <p class=" text-center text-white opacity-70">
                     <a href="mailto:thaguainvestments@gmail.com">thaguainvestments@gmail.com</a></p>
+                <p class="mt-10 text-center text-white opacity-70">
+                    Thagua LLC. All rights reserved. @2022
+                </p>
             </div>
         </div>
     </body>
